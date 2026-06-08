@@ -1,5 +1,6 @@
 # 🚜 Raspberry Pi Heavyweight RC Tracked Tank (Wi-Fi + Camera)
 
+Projekt z technikum
 Projekt oprogramowania dla gąsienicowego robota bojowo-rozpoznawczego opartego na minikomputerze **Raspberry Pi**. Pojazd dysponuje napędem różnicowym o dużej mocy, niezależną sekcją zasilania, oświetleniem roboczym oraz bezprzewodowym sterowaniem poprzez dedykowaną aplikację WWW wraz z podglądem wideo live.
 
 ---
